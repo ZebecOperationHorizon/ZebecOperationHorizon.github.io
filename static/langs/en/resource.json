@@ -1,6 +1,6 @@
 {
   "ZBC Address:": "ZBC Address:",
-  "alert-desc": "The Token Name and Token Symbol issue has been resolved, please use the swap page to get the New ZBC token",
+  "alert-desc-with-link": "The Token Name and Token Symbol issue has been resolved, please use the swap page to get new ZBC token.",
   "Disclaimer": "Disclaimer: Zebec will perform KYC for it’s users that use Zebec for crypto payroll purposes.",
   "page-under-maintenance": "The page is under maintenance.",
   "Connect": "Connect",
@@ -115,5 +115,7 @@
   "Copy": "Copy",
   "Get Zepoch Node": "Get Zepoch Node",
   "Detail": "Details",
-  "participate-to-activate": "Please participate in the Zebec Operation Horizon to activate the referral system"
+  "participate-to-activate": "Please participate in the Zebec Operation Horizon to activate the referral system",
+  "Swap": "Swap",
+  "Swap All": "Swap All"
 }
