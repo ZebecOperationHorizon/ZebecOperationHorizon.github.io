@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.a2b1da35.chunk.css",
-    "main.js": "/static/js/main.af9d6284.chunk.js",
-    "main.js.map": "/static/js/main.af9d6284.chunk.js.map",
+    "main.css": "/static/css/main.137d21f2.chunk.css",
+    "main.js": "/static/js/main.0769d94a.chunk.js",
+    "main.js.map": "/static/js/main.0769d94a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.89950d50.js",
     "runtime-main.js.map": "/static/js/runtime-main.89950d50.js.map",
     "static/css/2.ad2c571a.chunk.css": "/static/css/2.ad2c571a.chunk.css",
-    "static/js/2.95019372.chunk.js": "/static/js/2.95019372.chunk.js",
-    "static/js/2.95019372.chunk.js.map": "/static/js/2.95019372.chunk.js.map",
+    "static/js/2.050a784e.chunk.js": "/static/js/2.050a784e.chunk.js",
+    "static/js/2.050a784e.chunk.js.map": "/static/js/2.050a784e.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.ad2c571a.chunk.css.map": "/static/css/2.ad2c571a.chunk.css.map",
-    "static/css/main.a2b1da35.chunk.css.map": "/static/css/main.a2b1da35.chunk.css.map",
-    "static/js/2.95019372.chunk.js.LICENSE.txt": "/static/js/2.95019372.chunk.js.LICENSE.txt",
-    "static/media/Points.module.scss": "/static/media/SecondBackground.d03626a0.png",
-    "static/media/Profile.module.scss": "/static/media/Banner.9f0558ea.png",
-    "static/media/CurrentBenifitBackground.b0f49885.png": "/static/media/CurrentBenifitBackground.b0f49885.png",
+    "static/css/main.137d21f2.chunk.css.map": "/static/css/main.137d21f2.chunk.css.map",
+    "static/js/2.050a784e.chunk.js.LICENSE.txt": "/static/js/2.050a784e.chunk.js.LICENSE.txt",
+    "static/media/Profile.module.scss": "/static/media/Banner.5716e17a.png",
+    "static/media/Points.module.scss": "/static/media/RankBackground.5c0441a0.png",
+    "static/media/CurrentBenifitBackground.2bda3d78.png": "/static/media/CurrentBenifitBackground.2bda3d78.png",
+    "static/media/index.css": "/static/media/PPMori-Regular.e647e964.otf",
     "static/media/getFetch.cjs": "/static/media/getFetch.5fde86e3.cjs"
   },
   "entrypoints": [
     "static/js/runtime-main.89950d50.js",
     "static/css/2.ad2c571a.chunk.css",
-    "static/js/2.95019372.chunk.js",
-    "static/css/main.a2b1da35.chunk.css",
-    "static/js/main.af9d6284.chunk.js"
+    "static/js/2.050a784e.chunk.js",
+    "static/css/main.137d21f2.chunk.css",
+    "static/js/main.0769d94a.chunk.js"
   ]
 }

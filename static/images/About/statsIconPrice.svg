@@ -1,9 +1,8 @@
 <svg width="83" height="82" viewBox="0 0 83 82" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M41.5134 82C64.1571 82 82.5134 63.6437 82.5134 41C82.5134 18.3563 64.1571 0 41.5134 0C18.8698 0 0.513428 18.3563 0.513428 41C0.513428 63.6437 18.8698 82 41.5134 82ZM65.5134 22.7124L44.5657 38.2749L29.9952 30.0997L15.0184 42.3783V35.4594L29.3286 23.5219L44.0452 31.7792L65.5134 16V22.7124ZM14.5134 64V48.4324L20.5728 43.6757V64H14.5134ZM30.6718 36.7568L30.6718 63.5676H36.7313L36.7313 40.2162L30.6718 36.7568ZM44.8105 63.5676L44.8105 44.5405L50.8699 39.7838V63.5676H44.8105ZM59.454 33.7297L59.454 63.5676H65.5134V28.973L59.454 33.7297Z" fill="url(#paint0_linear_601_1229)"/>
-<defs>
-<linearGradient id="paint0_linear_601_1229" x1="0.513428" y1="48.5851" x2="82.5134" y2="48.5851" gradientUnits="userSpaceOnUse">
-<stop stop-color="#BB6CE6"/>
-<stop offset="1" stop-color="#FFCD1D"/>
-</linearGradient>
-</defs>
+<circle cx="41.5137" cy="41" r="41" fill="#F1F1F1"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M65.5137 22.7124L44.5659 38.2749L29.9954 30.0997L15.0186 42.3783V35.4594L29.3288 23.5219L44.0455 31.7792L65.5137 16V22.7124Z" fill="#59D89D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14.5137 64L14.5137 48.4324L20.5731 43.6757V64H14.5137Z" fill="#59D89D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.6721 63.5676L30.6721 36.7568L36.7315 40.2162L36.7315 63.5676H30.6721Z" fill="#59D89D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.8107 63.5676L44.8107 44.5405L50.8701 39.7838V63.5676H44.8107Z" fill="#59D89D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M59.4543 63.5676L59.4543 33.7297L65.5137 28.973L65.5137 63.5676H59.4543Z" fill="#59D89D"/>
 </svg>
